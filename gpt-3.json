@@ -1,0 +1,7 @@
+{
+    "name": "GPT-3",
+    "description": "مدل زبانی GPT-3 از OpenAI",
+    "version": "1.0",
+    "max_tokens": 2048,
+    "api_endpoint": "https://api.openai.com/v1/chat/completions"
+}
